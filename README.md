@@ -2,8 +2,13 @@
 This is a basic project to find the particular day(Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday) of the given year, month and day build by C programming Language
 
 ## *How to run the project*
+### *Method-1*
 1. Select any C compiler(Either offline or online)
 2. Copy the source code and run through your selected compiler
+### *Method-2*
+1. Download the .exe file from the repositary
+2. The downladed file shows erore, Right Click  and enter "keep" option
+3. Later Click "Run Anyway" 
 
 ## *How to get started*
 1. Build and run the Day-Finder Project
